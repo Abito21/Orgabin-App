@@ -5,8 +5,8 @@ Project Capstone - SIB Kampus Merdeka X Dicoding
 
 ## Our Team
 Android Path
-1. Kisusyenni Venessa (A213V4170)
-2. Abid Juliant Indraswara (A329T6338)
+1. Kisusyenni Venessa (A213V4170) - https://github.com/kisusyenni
+2. Abid Juliant Indraswara (A329T6338) - https://github.com/Abito21
 
 ## Table of Contents
 * [Intro](#intro)
